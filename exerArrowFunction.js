@@ -27,7 +27,7 @@ console.log("-----Arrow function--------")
 
 let somaTres = (n1,n2) => n1 + n2
 
-console.log(somaTres(5+12))
+console.log(somaTres(5,12))
 
 
 console.log("|".repeat(40))
