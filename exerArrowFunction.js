@@ -25,9 +25,9 @@ console.log(somaDois(8,8))
 
 console.log("-----Arrow function--------")
 
-let somaTres = () => 5 + 12
+let somaTres = (n1,n2) => n1 + n2
 
-console.log(somaTres())
+console.log(somaTres(5+12))
 
 
 console.log("|".repeat(40))
